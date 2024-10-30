@@ -20,6 +20,6 @@ To get a local copy up and running, follow these steps.
 
 ### Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/meantaraa/to-do-list-using-html-css-js.git
+1. **Clone the repository**: git clone https://github.com/meantaraa/to-do-list-using-html-css-js.git
+2. **Navigate to the project folder**: cd to-do-list-using-html-css-js
+3. Open index.html in your browser to view the application.
